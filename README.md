@@ -8,11 +8,11 @@ Building scalable SaaS platforms, AI-enabled systems, and cloud applications wit
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/gabrielhonorato0985">
 LinkedIn
 </a>
 •
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Gabrielhonorato8357@gmail.com">
 Email
 </a>
 •
@@ -194,10 +194,10 @@ Working on:
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+src="https://github-readme-stats.vercel.app/api?username=gabrielhonorato8357&show_icons=true"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhonorato8357&layout=compact"/>
 
 </div>
 
@@ -205,7 +205,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielhonorato8357"/>
 
 </div>
 
